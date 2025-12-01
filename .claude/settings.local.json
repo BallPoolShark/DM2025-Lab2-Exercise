@@ -6,7 +6,10 @@
       "Bash(git commit:*)",
       "Bash(pip install:*)",
       "Bash(.venvScriptspython -m pip install sentence-transformers)",
-      "Bash(..venvScriptspython -m pip install sentence-transformers --upgrade)"
+      "Bash(..venvScriptspython -m pip install sentence-transformers --upgrade)",
+      "Bash(python -m venv:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
